@@ -1,4 +1,4 @@
-package com.example.reaction_flutter
+package my.hwang.reaction_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 
